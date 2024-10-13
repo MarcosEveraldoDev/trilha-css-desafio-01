@@ -184,8 +184,9 @@ section {
   font-size: 16px;
   font-weight: 400;
   line-height: 18.78px;
-  color: #ffffff; text-align: center;
-  transform: perspective(500px) ;
+  color: #ffffff;
+  text-align: center;
+  transform: perspective(500px);
 }
 
 footer {
@@ -193,8 +194,7 @@ footer {
   padding-bottom: 30px;
   border-top: 1px solid #33a8db;
   text-align: center;
-  background: linear-gradient(#33A8DB00 ,#33A8DB33 ,#33A8DB33);
-  
+  background: linear-gradient(#33a8db00, #33a8db33, #33a8db33);
 }
 footer p {
   display: block;
@@ -208,14 +208,14 @@ footer p {
   line-height: 18.78px;
 }
 
-footer img{
+footer img {
   font: Raleway;
   font-weight: 700;
   font-size: 16px;
   line-height: 18.78px;
 }
 
-a{
+a {
   text-decoration: none;
   color: #33a8db;
 }
